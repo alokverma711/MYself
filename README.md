@@ -32,7 +32,7 @@ This portfolio is more than just a personal website - it's a carefully crafted d
 The portfolio serves as both a personal showcase and a testament to modern web development capabilities, featuring smooth animations, engaging interactions, and a cohesive visual identity throughout.
 
 ## 🚀 Live Demo
-🌐 [View Live Portfolio](https://web-development-portfolio-blond.vercel.app/)
+🌐 [View Live Portfolio](https://m-yself.vercel.app/)
 
 Experience the portfolio in its full glory with all animations and interactions. The live version is deployed on Vercel with global CDN distribution for optimal performance worldwide.
 
@@ -87,10 +87,6 @@ Experience the portfolio in its full glory with all animations and interactions.
 - **ESLint**: Code linting for consistent code quality
 - **Prettier**: Code formatting for consistent style
 
-### Deployment & Hosting
-- **Vercel**: Global edge network deployment
-- **GitHub**: Version control and collaboration
-- **Custom Domain**: Professional domain with SSL certificate
 
 ## 📁 Project Structure
 ```
@@ -109,47 +105,6 @@ portfolio/
 ├── README.md                # Project documentation
 └── LICENSE                  # License file
 ```
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn package manager
-- Git for version control
-
-### Local Development Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alokverma711/portfolio.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start development server:
-   ```bash
-   npm run dev
-   ```
-   The development server will start at `http://localhost:5173`
-
-4. Build for production:
-   ```bash
-   npm run build
-   ```
-   The built files will be in the `dist/` directory
-
-5. Preview production build:
-   ```bash
-   npm run preview
-   ```
-
-### Available Scripts
-- `npm run dev` - Start development server with hot reload
-- `npm run build` - Build optimized production bundle
-- `npm run preview` - Preview production build locally
-- `npm run host` - Start development server accessible via network
 
 ## 🎨 Design System
 
